@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Class>
+    <student>
+	    <name>jack</name>
+	    <age>28</age>
+	    <city>beijing</city>
+    </student>
+	
+	<student>
+	    <name>bob</name>
+	    <age>25</age>
+	    <city>shanghai</city>
+    </student>
+	
+	<student>
+	    <name>herry</name>
+	    <age>23</age>
+	    <city>shenzhen</city>
+    </student>
+	
+    <teacher>
+	    <name>marry</name>
+	    <age>30</age>
+	    <city>henan</city>
+    </teacher>
+	
+	<account>
+	    <login username="student" password=""/>
+	    <login username="teacher" password=""/>
+		#stu_123456  tea_123456
+    </account>
+	
+</Class>

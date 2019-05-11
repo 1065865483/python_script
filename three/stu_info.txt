@@ -1,0 +1,3 @@
+ajack,25,Beijing
+bbob,22,shanghai
+cherry,24,shenzhen
